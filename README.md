@@ -2,8 +2,8 @@
 
 *MBA (Business Analytics) student @ RVS IMSR*  
 
-![GitHub Followers](https://img.shields.io/github/followers/your-username?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/your-username?style=social)  
+![GitHub Followers](https://img.shields.io/github/followers/Ajifrank3?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/Ajifrank3?style=social)  
 
 ## 📌 About Me  
 I am fascinated about uncovering insights.  
@@ -11,9 +11,9 @@ I am fascinated about uncovering insights.
 - 🌱 I’m currently learning **Data Science**  
 - 🤝 I’m looking to collaborate on **ML/AI projects**  
 - 🤔 I’m looking for Placement in **Analytics**  
-- 📬 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
+- 📬 How to reach me: [[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)](https://www.linkedin.com/in/ajith-n-b2944a212/)    
 - 😃 **Pronoun:** Analyst  
-- ⚡ **Fun fact:** I know Japanese ⛩️  
+- ⚡ **Fun fact:** I drive in air ⛩️  
 
 ---
 
