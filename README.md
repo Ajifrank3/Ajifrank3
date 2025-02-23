@@ -24,4 +24,4 @@ I am fascinated about uncovering insights.
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn)  
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat)  
 ![Scrapy](https://img.shields.io/badge/-Scrapy-75AADB?style=flat)  
-![Marketing Dashboard](https://raw.githubusercontent.com/README.md/main/dashboard.png)
+
